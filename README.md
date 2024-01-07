@@ -1,4 +1,5 @@
 DESIGN APPROACH: In designing an automated room control system, we aim to seamlessly integrate various components such as the AC, fan, lights, windows, electrical appliances, routers, and a fire alert system to enhance comfort, safety, and energy efficiency.
+
 BLOCK DIAGRAM:
 ![Screenshot 2024-01-07 224249](https://github.com/SaiDeepika4713/ASSESSMENT/assets/96421369/5a19a84c-d510-48fe-ba35-813a1ab8dbd3)
 
